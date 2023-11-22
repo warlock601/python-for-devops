@@ -10,4 +10,5 @@ else:
     print("Pattern not found")
 
 
-# (group() method returns the pattern that matches the substring)
+# group() method returns the pattern that matches the substring in regular expression
+# "re" implies regular exp
