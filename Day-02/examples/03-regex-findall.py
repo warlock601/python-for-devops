@@ -9,4 +9,5 @@ if search:
 else:
     print("Pattern not found")
 
-[comment]: # (group() method returns the pattern that matches the substring)
+
+# (group() method returns the pattern that matches the substring)
