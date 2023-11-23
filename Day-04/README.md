@@ -110,7 +110,8 @@ python -m venv myenv
 # let say we want to install 2 different virtual envs
 python -m venv team-1
 python -m venv team-2
-# Now we can install different dependencies on these & there will be no conflict
+# Now we can install different dependencies on these & there will be no conflict.
+# First we activate a virtual env and then install dependencies
 # Let say team-1 wants to work on Jira 2.1 and team-2 wants to work on Jira-2, so they can install and no conflict will be there
 
 # Activate the virtual environment (on Windows)
